@@ -1,0 +1,1 @@
+# initial shell script used by docker
